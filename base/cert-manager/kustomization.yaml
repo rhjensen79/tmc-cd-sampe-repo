@@ -1,0 +1,4 @@
+resources:
+  - cert-manager.yaml
+  - api-token.yaml
+  - clusterissuer.yaml
